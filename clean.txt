@@ -1,0 +1,16 @@
+Content dataset
+
+Rename columns - Content ID and User ID
+Change datatypes - Content ID, User ID [int,hex]. Category [Categorical]
+Missing - URL
+
+Reactions dataset
+
+Rename columns - Content ID and User ID
+Change datatypes - Content ID, User ID [int,hex]. Type[Categorical],Datetime[Datetime]
+Missing - User ID, Type
+
+Reaction Types
+
+Change datatypes - Type, Sentiment [Categorical]
+Missing - 
